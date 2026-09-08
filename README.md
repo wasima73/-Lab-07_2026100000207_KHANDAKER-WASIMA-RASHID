@@ -1,10 +1,10 @@
 # KHANDAKER-WASIMA-RASHID
 This repository was created on 7 September 2026 for CSE 1102 Section 3 in order to learn and practice GitHub, Markdown, version control, and GitHub Pages.
-what is version control?
+##what is version control?
 version control is the practice of tracking and managing software
 what is Git?
 Git is a open source software version control software 
-What is GitHub?
+**What is GitHub?
 GitHub is the online platform where developers can store 
 What is Gitbash?
 Its a software application for microsoft windows
